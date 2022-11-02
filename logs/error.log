@@ -1,0 +1,2 @@
+2022-11-02 14:25:30:2530 - [31merror[39m: [31mNão foi possivel conectar[39m
+2022-11-02 19:49:11:4911 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6362cc89dd1c17af1139ee0a1" (type string) at path "_id" for model "Movie"[39m
